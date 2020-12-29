@@ -1,4 +1,4 @@
-# gesprolic
+# GesProLic
 Gestão de Licitações
 
 Projeto desenvolvido em C# / .NET Core / ASP.NET Core / WebAPI
